@@ -12,6 +12,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "devDependencies": {
-    "underscore": "~1.5.2"
+    "underscore": "~1.5.2",
+    "readable-stream": "~1.1.9"
   }
 }
